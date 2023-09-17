@@ -305,7 +305,7 @@
 
     <menuitem id="menu_queue_job_root"
         name="Job Queue"
-        web_icon="queue_job,static/description/icon.png"
+        web_icon="intel_base_backend_theme,static/icons/dossies.png"
         groups="group_queue_job_manager"/>
 
     <menuitem id="menu_queue"
